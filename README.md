@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rubenwgs
 - 👀 I’m interested in computer science, hiking and photography.
-- 🌱 I’m currently learning C, C++ and Python.
+- 🌱 I’m currently learning C, C++, Haskell and Python.
 
 <!---
 rubenwgs/rubenwgs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
