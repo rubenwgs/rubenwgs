@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @rubenwgs
 - 👀 I’m interested in computer science, hiking and photography.
-- 🌱 I’m currently learning ~~C, C++, Haskell~~ OCaml and Python.
